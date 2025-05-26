@@ -9,22 +9,9 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "username": "root",
-            "database": "quiz_game",
-            "name": "Local MySQL"
-        },
-        {
-            "mysqlOptions": {
-                "authProtocol": "default",
-                "enableSsl": "Disabled"
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 3306,
-            "driver": "MySQL",
             "name": "localhost",
-            "username": "root",
-            "database": "quiz_game"
+            "database": "quiz_game",
+            "username": "root"
         }
     ]
 }
