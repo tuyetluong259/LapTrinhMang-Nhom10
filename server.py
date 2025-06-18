@@ -6,8 +6,8 @@ import mysql.connector
 # Kết nối database với biến db
 db = mysql.connector.connect(
     host="localhost",
-    user="quizuser",
-    password="matkhau123",
+    user="root",
+    password="27062005",
     database="quiz_game"
 )
 cursor = db.cursor(dictionary=True)
