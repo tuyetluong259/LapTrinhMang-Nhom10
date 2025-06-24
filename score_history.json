@@ -7,6 +7,13 @@
         "date": "2025-06-18 09:52:40"
     },
     {
+        "player_name": "Huy",
+        "score": 60,
+        "correct_answers": 6,
+        "total_questions": 10,
+        "date": "2025-06-18 10:10:11"
+    },
+    {
         "player_name": "Tuyết",
         "score": 50,
         "correct_answers": 5,
@@ -19,5 +26,40 @@
         "correct_answers": 5,
         "total_questions": 10,
         "date": "2025-06-18 10:00:13"
+    },
+    {
+        "player_name": "Huy",
+        "score": 40,
+        "correct_answers": 4,
+        "total_questions": 10,
+        "date": "2025-06-24 22:45:43"
+    },
+    {
+        "player_name": "Nguyên",
+        "score": 30,
+        "correct_answers": 3,
+        "total_questions": 10,
+        "date": "2025-06-18 10:10:09"
+    },
+    {
+        "player_name": "Huy",
+        "score": 30,
+        "correct_answers": 3,
+        "total_questions": 10,
+        "date": "2025-06-24 17:32:28"
+    },
+    {
+        "player_name": "Huy",
+        "score": 30,
+        "correct_answers": 3,
+        "total_questions": 3,
+        "date": "2025-06-24 22:40:10"
+    },
+    {
+        "player_name": "Huy",
+        "score": 10,
+        "correct_answers": 1,
+        "total_questions": 2,
+        "date": "2025-06-24 22:38:15"
     }
 ]

@@ -71,6 +71,11 @@ def handle_client(client_socket, addr):
 
             answer = client_socket.recv(1024).decode().strip().upper()
 
+            # Nếu client gửi rỗng (hết giờ hoặc không trả lời), không cộng điểm, gửi thông báo sai
+            if not answer or answer not in ['A', 'B', 'C', 'D']:
+                client_socket.sendall(f"Đáp án sai! Đáp án đúng là: {q['correct_option']}\n\n".encode())
+                continue
+
             if answer == q['correct_option'].upper():
                 client_socket.sendall("Đáp án đúng!\n\n".encode())
                 score += 1
