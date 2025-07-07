@@ -1,0 +1,23 @@
+[
+    {
+        "player_name": "Băng",
+        "score": 60,
+        "correct_answers": 6,
+        "total_questions": 9,
+        "date": "2025-06-18 09:52:40"
+    },
+    {
+        "player_name": "Tuyết",
+        "score": 50,
+        "correct_answers": 5,
+        "total_questions": 10,
+        "date": "2025-06-18 09:49:41"
+    },
+    {
+        "player_name": "Huy",
+        "score": 50,
+        "correct_answers": 5,
+        "total_questions": 10,
+        "date": "2025-06-18 10:00:13"
+    }
+]

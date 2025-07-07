@@ -7,7 +7,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="27062005",
+    password="12345678",
     database="quiz_game"
 )
 cursor = db.cursor(dictionary=True)
